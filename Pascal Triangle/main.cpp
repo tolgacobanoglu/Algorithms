@@ -18,7 +18,7 @@ long combination(int n,int k)
         {
             result[i][j]=result[i-1][j-1]+result[i-1][j];
         }
-            result[i][j]=result[i-1][j-1]+result[i-1][j];
+        result[i][j]=result[i-1][j-1]+result[i-1][j];
     }
 
     return result[n][k];
@@ -36,15 +36,13 @@ void pascalTriangle(int n)
 
     for ( j= 0; j <= n; j++)
     {
-        printf("%d ",result[j]);
-      //  std::cout<<result[j]<<" ";
+        cout<<result[j]<<" ";
     }
 }
 
 int main()
 {
     pascalTriangle(5);
-    
+
     return 0;
 }
-
