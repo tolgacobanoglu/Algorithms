@@ -1,3 +1,0 @@
-C:/Users/pc/Desktop/Bubble Sort Algorithm/cmake-build-debug/CMakeFiles/Bubble_Sort_Algorithm.dir
-C:/Users/pc/Desktop/Bubble Sort Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/pc/Desktop/Bubble Sort Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
